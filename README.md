@@ -1,1 +1,2 @@
 # Connet-4-Game
+Connect 4 game is a two-player connection game in which the player first chooses a color and then takes turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own disc
